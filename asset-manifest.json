@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ohenebappiagyei/alx-react.git/static/css/main.07b951d4.css",
+    "main.js": "/ohenebappiagyei/alx-react.git/static/js/main.f5dc0343.js",
+    "static/media/holberton-logo.jpg": "/ohenebappiagyei/alx-react.git/static/media/holberton-logo.a74edfdfa4e1be32bf0c.jpg",
+    "index.html": "/ohenebappiagyei/alx-react.git/index.html",
+    "main.07b951d4.css.map": "/ohenebappiagyei/alx-react.git/static/css/main.07b951d4.css.map",
+    "main.f5dc0343.js.map": "/ohenebappiagyei/alx-react.git/static/js/main.f5dc0343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b951d4.css",
+    "static/js/main.f5dc0343.js"
+  ]
+}
